@@ -76,7 +76,8 @@ sub getBanner($)
     $banner =~ s/^\s*//;
     # ... and at the end
     $banner =~ s/\s*$//;
-    return "B:" . " " x (33 - int((length($banner) / 2))) . $banner . "\n";
+    #return "B:" . " " x (33 - int((length($banner) / 2))) . $banner . "\n";
+    return "B: " . $banner . "\n"; 
 }
 
 sub generate_jump_table($*)
