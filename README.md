@@ -6,7 +6,7 @@ Typing Lessons focusing on colemak and programming
 
 * Install GNU Typist from https://www.gnu.org/savannah-checkouts/gnu/gtypist/gtypist.html
 * * For me this was a simple `sudo apt-get install gtypist`
-* Download [learncolemak.com/lessons.typ](learncolemak.com/lessons.typ)
+* Download [learncolemak.com/lessons.typ](lessons.typ)
 * Run lesson `gtypist lessons.typ`
 
 ## Make your own gTypist lessons
