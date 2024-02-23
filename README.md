@@ -13,5 +13,4 @@ Typing Lessons focusing on colemak and programming.
 
 TODO: Write these instructions when I can type faster.
 
-### The colemak lessons came from https://www.learncolemak.com/lessons.php
-#### If you find them useful go there and donate to his PayPal.
+#### The colemak lessons came from https://www.learncolemak.com/lessons.php If you find them useful go there and donate to his PayPal.
