@@ -1,2 +1,2 @@
 # gtypist
-Scripts and Lessons
+Scripts and Lessons focusing on colemak
