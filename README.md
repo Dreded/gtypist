@@ -1,6 +1,6 @@
-# gTypist Lessons
+# gTypist Lessons / Easytyp2typ script
 
-Typing Lessons focusing on colemak and programming
+Typing Lessons focusing on colemak and programming.
 
 ## Use
 
